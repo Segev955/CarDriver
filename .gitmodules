@@ -1,0 +1,9 @@
+[submodule "CarDriver-Android"]
+	path = CarDriver-Android
+	url = https://github.com/Segev955/CarDriver-Android.git
+[submodule "car-driver-backend"]
+	path = car-driver-backend
+	url = https://github.com/Segev955/car-driver.git
+[submodule "OBDII-Data"]
+	path = OBDII-Data
+	url = https://github.com/Segev955/OBDII-Data.git
